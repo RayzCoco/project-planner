@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner  updated",
+      "details": "Lorem ipsum maybe",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "Design new website",
+      "details": "This is the detail",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Study German",
+      "details": "Aqeem gay",
+      "complete": true,
+      "id": 4
+    }
+  ]
+}

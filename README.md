@@ -1,19 +1,13 @@
 # project-plan
+This is a project planner made by Vue3 and has Google Firebase as a server
 
-## Project setup
+## How to run project
+Step 1
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Step 2
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
